@@ -14,6 +14,7 @@
 		EAFDC3DC1F32503900CACD97 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EAFDC3DA1F32503900CACD97 /* LaunchScreen.storyboard */; };
 		EAFDC3E71F32503A00CACD97 /* HustleModeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAFDC3E61F32503A00CACD97 /* HustleModeTests.swift */; };
 		EAFDC3F21F32503A00CACD97 /* HustleModeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAFDC3F11F32503A00CACD97 /* HustleModeUITests.swift */; };
+		EAFDC4011F3257E600CACD97 /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = EAFDC4001F3257D700CACD97 /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		EAFDC3ED1F32503A00CACD97 /* HustleModeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HustleModeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAFDC3F11F32503A00CACD97 /* HustleModeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HustleModeUITests.swift; sourceTree = "<group>"; };
 		EAFDC3F31F32503A00CACD97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EAFDC4001F3257D700CACD97 /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "hustle-on.wav"; path = "../../../../../Users/marcinpietrzak/Downloads/hustle-mode-code-assets/assets/Assets/hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		EAFDC3D01F32503900CACD97 /* HustleMode */ = {
 			isa = PBXGroup;
 			children = (
+				EAFDC4001F3257D700CACD97 /* hustle-on.wav */,
 				EAFDC3D11F32503900CACD97 /* AppDelegate.swift */,
 				EAFDC3D31F32503900CACD97 /* ViewController.swift */,
 				EAFDC3D51F32503900CACD97 /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EAFDC4011F3257E600CACD97 /* hustle-on.wav in Resources */,
 				EAFDC3DC1F32503900CACD97 /* LaunchScreen.storyboard in Resources */,
 				EAFDC3D91F32503900CACD97 /* Assets.xcassets in Resources */,
 				EAFDC3D71F32503900CACD97 /* Main.storyboard in Resources */,
